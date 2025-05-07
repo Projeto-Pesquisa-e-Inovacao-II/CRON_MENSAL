@@ -4,7 +4,7 @@ package school.sptech;
 
 import java.util.List;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         List<String> mensagensMensais = List.of(
                 "📅 Início de mês! Veja como se comportaram as evasões no mês passado.",
